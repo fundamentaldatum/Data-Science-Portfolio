@@ -1,2 +1,2 @@
 # Portfolio
-Data science projects developed in Python.
+Data science projects developed in Python using Jupyter Notebook.
